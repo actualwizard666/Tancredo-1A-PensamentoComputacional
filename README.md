@@ -1,2 +1,2 @@
 # Tancredo-1A-PensamentoComputacional
-Site desenvolvido nas linguagens HTML e CSS
+Site desenvolvido em HTML e CSS
