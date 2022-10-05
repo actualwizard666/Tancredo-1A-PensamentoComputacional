@@ -12,8 +12,9 @@ body{
     height:100% ;
 
 }
+.beneficios{
+    text-align: left;
+}
 .conteudo{
 background:rgb(60, 7, 100);
-
-
 }
