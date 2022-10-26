@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: #bf8573;
+    background: linear-gradient( rgb(102, 0, 245), #3a0256);
 }
 .slogan{
     font-size: 25px;
@@ -11,6 +11,20 @@ body{
     height: 100%;
 
 }
+.ben_img{
+    width: 20%;
+    height: 20%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #000000;
+}
+.Benefícios{
+    background-color: #712eab;
+    display: inline-block;
+    text-align: left;
+}
+.Benefícios h2{
+    text-align: center;
+}
 ul{
     display: inline-block;
     vertical-align: top;
@@ -19,15 +33,6 @@ ul{
 }
 li{
     padding: 20px;
-}
-.ben_img{
-    width: 20%;
-    height: 20%;
-}
-.Benefícios{
-    background-color: #712eab;
-    display: inline-block;
-    text-align: left;
 }
 .conteudo{
 background:rgb(60, 7, 100);
