@@ -2,6 +2,32 @@ body{
     text-align: center;
     background: linear-gradient( rgb(102, 0, 245), #3a0256);
 }
+nav{
+    position: absolute;
+    top: 75px;
+    right: 50px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+    text-transform: uppercase;
+    color:#000000;
+
+}
+nav a:hover{
+    font-weight: bold;
+    font-size: 22px;
+    color:rgb(249, 249, 249);
+    transition: 0.5s;
+}
+.logo{
+    width: 15%;
+    border-radius: 100%;
+}
+h3{
+    text-align: left;
+}
 .slogan{
     font-size: 25px;
 }
@@ -18,7 +44,7 @@ body{
     box-shadow: 2px 2px 4px #000000;
 }
 .Benefícios{
-    background-color: #712eab;
+    background-color: #300268;
     display: inline-block;
     text-align: left;
 }
